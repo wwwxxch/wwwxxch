@@ -1,16 +1,8 @@
 ### Hi, I'm Chih-Hui 🙂
 
 A Back-End engineer from Taiwan.
-Currently working on a personal cloud storage web application with Node.js, MySQL, AWS.
-<html>
-  <div>
-    <div><b>Contact with me: </b><div>
-    <a href="https://www.linkedin.com/in/chihhui-wang/">
-      <img src="/img/LinkedIn-logo.png" height="50">
-    </a>
-  </div>
-</html>
 
+Currently working on a personal cloud storage web application with Node.js, MySQL, AWS.
 
 ***
 ### 🛠 Languages and Tools
@@ -29,5 +21,14 @@ Currently working on a personal cloud storage web application with Node.js, MySQ
     <img src="/img/CSS.svg" alt="CSS icon" width="30" height="30">
     <img src="/img/JQuery.svg" alt="jQuery icon" width="30" height="30">
     <img src="/img/Bootstrap.svg" alt="Bootstrap icon" width="30" height="30">
+  </div>
+</html>
+***
+### ✉ Contact
+<html>
+  <div>
+    <a href="https://www.linkedin.com/in/chihhui-wang/">
+      <img src="/img/LinkedIn-logo.png" height="50">
+    </a>
   </div>
 </html>
