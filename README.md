@@ -2,8 +2,14 @@
 
 A Back-End engineer from Taiwan.
 Currently working on a personal cloud storage web application with Node.js, MySQL, AWS.
-
-Contact with me: [<img src="/img/LinkedIn-logo.png" height="30">](https://www.linkedin.com/in/chihhui-wang/)
+<html>
+  <div>
+    <div><b>Contact with me: </b><div>
+    <a href="https://www.linkedin.com/in/chihhui-wang/">
+      <img src="/img/LinkedIn-logo.png" height="30">
+    </a>
+  </div>
+</html>
 
 
 ***
