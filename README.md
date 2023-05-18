@@ -6,7 +6,7 @@ Currently working on a personal cloud storage web application with Node.js, MySQ
   <div>
     <div><b>Contact with me: </b><div>
     <a href="https://www.linkedin.com/in/chihhui-wang/">
-      <img src="/img/LinkedIn-logo.png" height="30">
+      <img src="/img/LinkedIn-logo.png" height="50">
     </a>
   </div>
 </html>
