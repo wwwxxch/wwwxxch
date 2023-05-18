@@ -4,7 +4,7 @@ A Back-End engineer from Taiwan.
 
 Currently working on a personal cloud storage web application with Node.js, MySQL, AWS.
 
-→ repo: https://github.com/wwwxxch/eon-drive
+→ repo is here: https://github.com/wwwxxch/eon-drive
 ***
 ### 🛠 Languages and Tools
 <html>
