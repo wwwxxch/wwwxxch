@@ -23,13 +23,14 @@ Currently working on a personal cloud storage web application with Node.js, MySQ
     <img src="/img/Bootstrap.svg" alt="Bootstrap icon" width="30" height="30">
   </div>
 </html>
+
 ***
 
 ### ✉ Contact
 <html>
   <div>
     <a href="https://www.linkedin.com/in/chihhui-wang/">
-      <img src="/img/LinkedIn-logo.png" height="50">
+      <img src="/img/LinkedIn-logo.png" height="40">
     </a>
   </div>
 </html>
