@@ -26,7 +26,7 @@ Currently working on a personal cloud storage web application with Node.js, MySQ
 
 ***
 
-### ✉ Contact
+### 🏃‍♀️ Contact
 <html>
   <div>
     <a href="https://www.linkedin.com/in/chihhui-wang/">
