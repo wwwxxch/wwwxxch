@@ -2,9 +2,11 @@
 
 A Back-End engineer from Taiwan.
 
-Currently working on a personal cloud storage web application with Node.js, MySQL, AWS.
+Currently working on a personal cloud storage web app with Node.js, MySQL, and AWS.
 
 ✨ Here's the repo: https://github.com/wwwxxch/eon-drive
+
+☁ Demo site: https://www.eondrive.net
 ***
 ### 🛠 Languages and Tools
 <html>
