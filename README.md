@@ -1,12 +1,9 @@
 ### Hi, I'm Chih-Hui 🙂
 
-A Back-End engineer from Taiwan.
+A Back-End engineer with DevOps experience.
 
-Currently working on a personal cloud storage web app with Node.js, MySQL, and AWS.
+Previous project: a personal cloud storage web app with Node.js, MySQL, and AWS. Here's the repo: https://github.com/wwwxxch/eon-drive
 
-✨ Here's the repo: https://github.com/wwwxxch/eon-drive
-
-☁ Demo site: https://www.eondrive.net
 ***
 ### 🛠 Languages and Tools
 <html>
