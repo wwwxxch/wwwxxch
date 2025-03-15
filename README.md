@@ -2,8 +2,6 @@
 
 A Back-End engineer with DevOps experience.
 
-Previous project: a personal cloud storage web app with Node.js, MySQL, and AWS. Here's the repo: https://github.com/wwwxxch/eon-drive
-
 ***
 ### 🛠 Languages and Tools
 <html>
